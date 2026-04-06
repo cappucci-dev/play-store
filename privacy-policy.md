@@ -1,43 +1,41 @@
 Política de Privacidade
 
-Última atualização: 08 de março de 2026
+Última atualização: 06/04/2026
 
-Este aplicativo foi desenvolvido com o objetivo de ajudar usuários a organizar times para esportes coletivos como futebol, basquete, vôlei e outros.
+Este aplicativo ("App") foi desenvolvido para fornecer entretenimento e/ou utilidade aos usuários, respeitando sua privacidade.
 
-Coleta de informações
+1. Coleta de informações
+O App não coleta informações pessoais identificáveis diretamente.
 
-Este aplicativo não coleta, armazena, compartilha ou processa qualquer tipo de dado pessoal do usuário.
+No entanto, serviços de terceiros podem coletar informações automaticamente, como:
+- Endereço IP
+- Tipo de dispositivo
+- Sistema operacional
+- Dados de uso do aplicativo
 
-Não solicitamos informações como:
+2. Uso de anúncios
+Este App utiliza o Google AdMob para exibição de anúncios.
 
-Nome
+O AdMob pode coletar e usar dados para fornecer anúncios personalizados ou não personalizados, conforme as configurações do usuário.
 
-E-mail
+Para mais informações, consulte a política de privacidade do Google:
+https://policies.google.com/privacy
 
-Número de telefone
+3. Uso das informações
+As informações coletadas automaticamente são utilizadas para:
+- Melhorar a experiência do usuário
+- Exibir anúncios relevantes
+- Analisar o uso do aplicativo
 
-Localização
+4. Compartilhamento de informações
+O App não compartilha informações pessoais com terceiros, exceto conforme necessário para funcionamento dos serviços de anúncios.
 
-Contatos
+5. Segurança
+Nos comprometemos a proteger as informações dos usuários, mas nenhum método de transmissão ou armazenamento é 100% seguro.
 
-Fotos ou arquivos do dispositivo
+6. Alterações nesta política
+Esta Política de Privacidade pode ser atualizada periodicamente. Recomendamos que o usuário revise esta página regularmente.
 
-Uso do aplicativo
-
-Todas as funcionalidades do aplicativo funcionam localmente no dispositivo do usuário e não dependem de qualquer tipo de coleta de dados pessoais.
-
-Compartilhamento de dados
-
-Como nenhuma informação é coletada, nenhum dado é compartilhado com terceiros.
-
-Segurança
-
-Como não há coleta de dados pessoais, não há armazenamento de informações sensíveis em servidores ou sistemas externos.
-
-Alterações nesta política
-
-Esta política de privacidade poderá ser atualizada futuramente caso o aplicativo passe a oferecer funcionalidades que envolvam coleta de dados.
-
-Contato
-
-Caso tenha dúvidas sobre esta política de privacidade, entre em contato com o desenvolvedor.
+7. Contato
+Se você tiver dúvidas sobre esta Política de Privacidade, entre em contato:
+Email: carlos.cappu7@gmail.com
